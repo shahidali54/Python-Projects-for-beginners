@@ -14,14 +14,14 @@ Here's how it looks in action:
 
 👤 What's your name? Shahid  
 💡 Which programming language excites you the most? Python  
-🌟 Who inspires you in your coding journey? Elon Musk  
+🌟 Who inspires you in your coding journey? Subhan  
 🧠 What's your dream project you'd love to build? AI-powered education app  
 
 📝 Crafting your unique coder's journey...
 
 Meet Shahid, a curious mind who discovered the magic of Python. ✨  
 With every line of code, Shahid's passion grew stronger.  
-Inspired by Elon Musk, they took on challenges with courage and creativity. 💪  
+Inspired by Subhan, they took on challenges with courage and creativity. 💪  
 Through sleepless nights and cups of chai ☕, they finally began building their dream project: AI-powered education app.  
 The journey was tough, but totally worth it — because real coders never quit! 💻🔥  
 ```
@@ -36,15 +36,15 @@ The journey was tough, but totally worth it — because real coders never quit! 
 
 ## 🛠️ How to Run
 
-1. **Clone the repository** (if hosted on GitHub):
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/coders-tale.git
+   git clone https://github.com/shahidali54/Python-Projects-for-beginners.git
    cd coders-tale
    ```
 
 2. **Run the Python file**:
    ```bash
-   python coders_tale.py
+   python madlib.py
    ```
 
 ---
@@ -64,10 +64,6 @@ Feel free to connect or reach out for collaboration!
 
 ---
 
-## 📃 License
 
-This project is licensed under the [MIT License](LICENSE)
-
----
 
 **Happy Coding!** 😎
