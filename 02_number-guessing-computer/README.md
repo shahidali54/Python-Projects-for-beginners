@@ -75,10 +75,12 @@ This project is open source and free to use under the MIT License.
 
 ## 🙌 Acknowledgement
 
-Made with ❤️ as part of a learning journey. Keep coding and improving! 🚀
+Made with ❤️ as part of a learning journey. Keep coding and improving! 
 
 ---
 
 ## ✍️ Author
 
 **Shahid Ali**
+A passionate full-stack developer and learner at PIAIC & GIAIC 
+Feel free to connect or reach out for collaboration!
