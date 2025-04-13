@@ -24,12 +24,12 @@ This is a simple command-line based Python game in which **the computer tries to
 ## 🚀 How to Run
 
 1. Make sure Python 3 is installed.
-2. Save the code in a file called `computer_guess.py`.
+2. Save the code in a file called `user-guess.py`.
 3. Open terminal or command prompt.
 4. Run the script using:
 
 ```bash
-python computer_guess.py
+python user-guess.py
 ```
 
 5. The program will start guessing numbers between 1 and the number you provide (default is 10).
@@ -50,14 +50,6 @@ Is 7 too high (H), too low (L), or correct (C)? c
 Congrats! The computer guessed your number, 7, correctly!
 ```
 
----
-
-## 👤 Author
-
-- Developed by: **Shahid Ali**  
-- Project: Python Practice Project #3
-
----
 
 ## 📌 Note
 
@@ -68,5 +60,15 @@ computer_guess(100)
 ```
 
 Will let the computer guess numbers from 1 to 100.
+
+---
+
+
+---
+
+## 👤 Author
+
+- Developed by: **Shahid Ali**  
+- Project: Python Projects for beginners #3
 
 ---
