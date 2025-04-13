@@ -61,7 +61,7 @@ computer_guess(100)
 
 Will let the computer guess numbers from 1 to 100.
 
----
+
 
 ---
 
