@@ -72,11 +72,16 @@ Made with ❤️ as part of a learning journey. Keep coding and improving!
 
 ---
 
-## ✍️ Author
+---
 
-**Shahid Ali**
-A passionate full-stack developer and learner at PIAIC & GIAIC 
-Feel free to connect or reach out for collaboration!
+## 👤 Author
+
+- Developed by: **Shahid Ali**
+- A passionate full-stack developer and learner at PIAIC & GIAIC 
+  Feel free to connect or reach out for collaboration!
+- Project: Python Projects for beginners #3
+
+---
 
 
 **Happy Coding!** 😎
