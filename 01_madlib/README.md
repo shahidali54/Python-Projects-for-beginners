@@ -56,14 +56,14 @@ The journey was tough, but totally worth it — because real coders never quit! 
 
 ---
 
-## 🙌 Author
+## 👤 Author
 
-**Shahid Ali**  
-A passionate full-stack developer and learner at PIAIC & GIAIC 🚀  
-Feel free to connect or reach out for collaboration!
+- Developed by: **Shahid Ali**
+- A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
+  Feel free to connect or reach out for collaboration!
+- Project: Python Projects for beginners # 03
 
 ---
-
 
 
 **Happy Coding!** 😎
