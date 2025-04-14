@@ -48,16 +48,12 @@ You win!
 
 ## 👤 Author
 
-- Developed by: **Shahid Ali**  
-- Project: Python Practice Project #4
+- Developed by: **Shahid Ali**
+- A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
+  Feel free to connect or reach out for collaboration!
+- Project: Python Projects for beginners # 04
 
 ---
 
-## 📌 Note
 
-You can enhance this game by adding:
-- Score tracking for multiple rounds
-- A replay option after each round
-- Input validation for invalid entries
-
----
+**Happy Coding!** 😎
