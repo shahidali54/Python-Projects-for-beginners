@@ -69,7 +69,7 @@ Current word:  p - - - - -
 - Developed by: **Shahid Ali**
 - A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
   Feel free to connect or reach out for collaboration!
-- Project: Python Projects for beginners # 04
+- Project: Python Projects for beginners # 05
 
 ---
 
