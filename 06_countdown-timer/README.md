@@ -35,7 +35,7 @@ python countdown-timer.py
 4. Enter the time (in seconds) when prompted, like:
 
 ```
-Enter The Time In Seconds: 10
+Enter The Time In Seconds: 5
 ```
 
 ---
