@@ -25,11 +25,11 @@ This is a simple yet powerful **Random Password Generator** built using Python. 
 ## 🚀 How to Run
 
 1. Make sure Python 3 is installed.
-2. Save the code in a file named `password_generator.py`.
+2. Save the code in a file named `password-generator.py`.
 3. Open terminal or command prompt and run:
 
 ```bash
-python password_generator.py
+python password-generator.py
 ```
 
 4. When prompted:
@@ -69,7 +69,7 @@ kL#r1@VzTY7%
 - Developed by: **Shahid Ali**
 - A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
   Feel free to connect or reach out for collaboration!
-- Project: Python Projects for beginners # 06
+- Project: Python Projects for beginners # 07
 
 ---
 
