@@ -66,7 +66,12 @@ kL#r1@VzTY7%
 
 ## 👤 Author
 
-- Developed by: **Shahid Ali**  
-- Project: Python Practice Project #5
+- Developed by: **Shahid Ali**
+- A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
+  Feel free to connect or reach out for collaboration!
+- Project: Python Projects for beginners # 06
 
 ---
+
+
+**Happy Coding!** 😎
