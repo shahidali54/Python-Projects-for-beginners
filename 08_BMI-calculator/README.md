@@ -31,11 +31,11 @@ This is a simple and interactive **BMI Calculator Web App** built using **Stream
 pip install streamlit
 ```
 
-3. Save the code in a file named `bmi_calculator.py`.
+3. Save the code in a file named `BMI-calculator.py`.
 4. Run the app with the following command:
 
 ```bash
-streamlit run bmi_calculator.py
+streamlit run BMI-calculator.py
 ```
 
 5. The browser will open automatically with the app.
@@ -66,7 +66,12 @@ BMI = weight / ((height / 100) ** 2)
 
 ## 👤 Author
 
-- Developed by: **Shahid Ali**  
-- Project: Python Practice Project #6 (Streamlit)
+- Developed by: **Shahid Ali**
+- A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
+  Feel free to connect or reach out for collaboration!
+- Project: Python Projects for beginners # 08
 
 ---
+
+
+**Happy Coding!** 😎
