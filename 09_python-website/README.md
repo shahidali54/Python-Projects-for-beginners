@@ -33,11 +33,11 @@ This project is a **Streamlit-based interactive data dashboard** that allows use
 pip install streamlit pandas matplotlib
 ```
 
-3. Save the code in a file named `dashboard_app.py`.
+3. Save the code in a file named `main.py`.
 4. Run the app using:
 
 ```bash
-streamlit run dashboard_app.py
+streamlit run main.py
 ```
 
 5. A browser window will open automatically with the app.
