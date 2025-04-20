@@ -63,7 +63,12 @@ streamlit run main.py
 
 ## 👤 Author
 
-- Developed by: **Shahid Ali**  
-- Project: Python Practice Project #7 (Streamlit Dashboard)
+- Developed by: **Shahid Ali**
+- A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
+  Feel free to connect or reach out for collaboration!
+- Project: Python Projects for beginners # 09
 
 ---
+
+
+**Happy Coding!** 😎
