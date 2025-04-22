@@ -23,7 +23,7 @@ pip install dash
 python main.py
 ```
 
-Replace `your_script_name.py` with the actual filename of this script.
+Replace `main.py` with the actual filename of this script.
 
 ### Step 3: View in Browser
 
