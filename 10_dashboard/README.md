@@ -41,4 +41,12 @@ http://127.0.0.1:8050/
 
 ## 👨‍💻 Author
 
-**Shahid Ali**
+- Developed by: **Shahid Ali**
+- A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
+  Feel free to connect or reach out for collaboration!
+- Project: Python Projects for beginners # 08
+
+---
+
+
+**Happy Coding!** 😎
