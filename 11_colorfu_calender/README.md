@@ -17,7 +17,7 @@ This is a **terminal-based colorful calendar** project built using Python's `cal
 
 ## ▶️ How to Run
 
-1. Make sure you have Python installed (version 3.6 or above).
+1. Make sure you have Python installed (version 3.11 or above).
 2. Install the `rich` library if you haven't already:
 
 ```bash
@@ -27,13 +27,17 @@ pip install rich
 3. Run the script:
 
 ```bash
-python your_file_name.py
+python main.py
 ```
 
 ## ✍️ Author
 
-**Shahid Ali**
+- Developed by: **Shahid Ali**
+- A passionate full-stack developer and learner at **PIAIC** & **GIAIC**
+  Feel free to connect or reach out for collaboration!
+- Project: Python Projects for beginners # 11
 
 ---
 
-Enjoy your colorful year view in the terminal! 🌈🖥️
+
+**Happy Coding!** 😎
