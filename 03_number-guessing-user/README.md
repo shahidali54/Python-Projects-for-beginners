@@ -1,4 +1,3 @@
-
 # 🤖 Computer Guessing Game (Python)
 
 This is a simple command-line based Python game in which **the computer tries to guess a number that the user is thinking of**, between 1 and a given upper bound. The user provides feedback whether the guess is too high, too low, or correct.
@@ -73,6 +72,4 @@ Will let the computer guess numbers from 1 to 100.
 - Project: Python Projects for beginners # 03
 
 ---
-
-
 **Happy Coding!** 😎
