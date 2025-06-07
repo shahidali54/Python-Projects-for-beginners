@@ -14,5 +14,4 @@ Inspired by {inspiration}, they took on challenges with courage and creativity. 
 Through sleepless nights and cups of chai ☕, they finally began building their dream project: {dream_project}.  
 The journey was tough, but totally worth it — because real coders never quit! 💻🔥  
 """
-
 print(story)
