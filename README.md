@@ -1,5 +1,5 @@
 # Python-Projects-for-beginners
-13 Projects Complete
+13 Projects Completed
 
 
 
